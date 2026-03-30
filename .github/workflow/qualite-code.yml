@@ -25,3 +25,5 @@ jobs:
 
       - name: Lancer notre policier du code
         run: npm run lint
+      - name: Lancer les tests automatisés
+        run: npm test
