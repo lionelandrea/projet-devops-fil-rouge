@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1774871008968" clover="3.2.0">
-  <project timestamp="1774871008968" name="All files">
+<coverage generated="1774878685649" clover="3.2.0">
+  <project timestamp="1774878685649" name="All files">
     <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
     <file name="panier.js" path="C:\Users\Leonking200\projet-devops-fil-rouge\panier.js">
       <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
